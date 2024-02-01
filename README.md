@@ -6,7 +6,7 @@ Button Behavior: The 'Submit' button is initially disabled and not clickable. An
 
 CSS Application: Newly added rows inherit existing CSS styles.
 
-Feedback Messages: Display success or error messages upon record addition or deletion, mentioning the specific student's name.
+Alert Messages: Displayed alert messages upon record addition or deletion, mentioning the specific student's name.
 
 Checkbox Interactions: Selecting a checkbox changes the row's background color to yellow, enables the 'Submit' button, and adds 'Delete' and 'Edit' buttons for row-specific actions. Deselecting reverts these changes.
 
