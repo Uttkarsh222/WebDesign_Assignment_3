@@ -1,0 +1,21 @@
+#myTable {
+  border: 2px solid green;
+  border-collapse: collapse;
+  margin: 30px auto; 
+}
+
+#myTable input {
+  margin-left: 5px;
+}
+
+#myTable td, #myTable th {
+  border: 1px solid green;
+  padding: 8px;
+  text-align: center;
+}
+
+#myTable th {
+  color: #fff;
+  background-color: #a7c942;
+  padding: 10px;
+}
