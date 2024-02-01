@@ -1,6 +1,6 @@
 The assignment involves creating a dynamic web page with specific functionalities. Key features include:
 
-Initial Display: Show full name and NUID upon page load. The table should be collapsed initially.  
+Initial Display: Show full name -Uttkarsh Bharadia and NUID - 002872928 upon page load. The table should be collapsed initially.  
 
 Button Behavior: The 'Submit' button is initially disabled and not clickable. An 'Add New Student' button should dynamically add new students with placeholder values like 'Student 4', 'Teacher 4', etc.
 
